@@ -9,8 +9,6 @@ Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
 
 >部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
 >> [**版权声明**](#版权声明)
->>>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](#contanct-me)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
 
 # Android-Notes
 Android开发核心知识点笔记-目录： 
@@ -619,43 +617,7 @@ Android开发核心知识点笔记-目录：
      * [反转整数](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#反转整数)
      * [LRU缓存策略](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
      
-# 赞赏本库
-如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发以及这个项目的持续维护👇
-
-可以扫描下面的二维码，让我可以喝一杯:coffee:or:beer:  非常感谢您对我内容产出的鼓励，谢谢！
-
-<div align="center">
-<img src="https://github.com/BlackZhangJX/Android-Notes/blob/master/screenshots/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png" width=25%><img src="https://github.com/BlackZhangJX/Android-Notes/blob/master/screenshots/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width=25%>
-</div>
-
-# Contanct Me
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取
->本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了
->> 如果你对于群管理有更好的建议，欢迎群内私聊我（我是-不管事不答疑的随缘冒泡废人）
->>>行了行了，名字很随意已经有很多人说过了…毕竟还是要恰饭的嘛…
-
 祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Android开发交流QQ群：**1087509153**  （备注一下GitHub，免得被认成打无良广告的）
-
-快捷加群方式：[点击此处加入群聊Android开发交流群](https://jq.qq.com/?_wv=1027&k=CGMn8PQu)
-
-<div align="center">
-<img src="https://github.com/BlackZhangJX/Android-Notes/blob/master/screenshots/Android%E5%BC%80%E5%8F%91%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png">
-</div>
-
->PS：
->>平常很忙，找桃子小姐姐领取就好了，别找我
-
-## 微信公众号
-
-**Android开发之家**
-
-<div align="center">
-<img src="https://github.com/BlackZhangJX/Android-Notes/blob/master/screenshots/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg">
-</div>
 
 # 版权声明
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
